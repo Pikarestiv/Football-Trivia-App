@@ -1,0 +1,42 @@
+body {
+	padding-left: 10%;
+	padding-right: 10%;
+	margin:auto;
+	width: 80%;
+	height:100%;
+	font-family: 'Trebuchet MS', 'Helvetica';
+	background:#609;
+	color:#FFF;
+}
+
+p {
+	text-align:center;
+}
+
+.titlebar {
+	text-align:center;
+	width:100%;
+	background-color:#336;
+}
+
+marquee {
+	border:groove #336;
+	padding:2px;
+	max-height:inherit;
+}
+
+.upndwn {
+	border-top:solid #336;
+	border-bottom:solid #336;
+}
+
+
+img {
+	text-align:center;
+	width:75%;
+	height:25%;
+}
+
+.logo {	
+	border:0px;
+}
